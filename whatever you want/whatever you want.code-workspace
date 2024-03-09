@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "whatever you want",
+			"path": "."
+		},
+		{
+			"name": "p5minJs-main",
+			"path": "../../Downloads/p5minJs-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "whatever you want"
+	}
+}
